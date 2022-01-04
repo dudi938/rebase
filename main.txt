@@ -1,8 +1,5 @@
 update master via web
 
-
-
-
 function 1(){}
 function 2(){}
 
